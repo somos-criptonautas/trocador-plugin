@@ -2,6 +2,8 @@
 
 A plugin for BTCPay Server for users to pay invoices at checkout using a different cryptocurrency. Trocador is an exchange aggregator that offers excellent rates to users while providing them strong privacy.
 
+[Criptonautas] Our version shows USDT on TRC-20 network.
+
 ## Use Cases and Features
 
 * Allow customers to pay with whichever asset they prefer.
